@@ -1,1 +1,1 @@
-# GlobalAIHubPythonCourse
+# GoruntuIsleme
